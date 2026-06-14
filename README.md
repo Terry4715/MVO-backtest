@@ -1,7 +1,7 @@
 # MVO-backtest
-##SAA Research Toolkit
+## SAA Research Toolkit
 
-###Ideas
+### Ideas
 Import asset return data
 Calculate annualised return and volatility
 Create covariance and correlation matrices
@@ -15,7 +15,7 @@ Add performance and risk measurements
 Add audit logging
 Refactor it into Python classes
 
-##OOP structure thought
+## OOP structure thought
 class DataLoader:
     pass
 
