@@ -16,23 +16,23 @@ Add audit logging
 Refactor it into Python classes
 
 ## OOP structure thought
-class DataLoader:
+- class DataLoader:
     pass
 
-class CapitalMarketAssumptions:
+- class CapitalMarketAssumptions:
     pass
 
-class PortfolioOptimizer:
+- class PortfolioOptimizer:
     pass
 
-class PortfolioSimulator:
+- class PortfolioSimulator:
     pass
 
-class Backtester:
+- class Backtester:
     pass
 
-class PerformanceAnalyzer:
+- class PerformanceAnalyzer:
     pass
 
-class AuditLogger:
+- class AuditLogger:
     pass
