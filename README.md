@@ -2,8 +2,8 @@
 ## SAA Research Toolkit
 
 ### Ideas
-- Import asset return data
-- Calculate annualised return and volatility
+~~- Import asset return data~~
+~~- Calculate annualised return and volatility~~
 - Create covariance and correlation matrices
 - Run regression and calculate beta
 - Generate random portfolios
