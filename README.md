@@ -4,11 +4,11 @@
 ### Ideas
 - ~~Import asset return data~~
 - ~~Calculate annualised return and volatility~~
-- Create covariance and correlation matrices
+- ~~Create covariance and correlation matrices~~
+- ~~Generate random portfolios~~
+- ~~Build an efficient frontier~~
+- ~~Add optimisation constraints~~
 - Run regression and calculate beta
-- Generate random portfolios
-- Build an efficient frontier
-- Add optimisation constraints
 - Run Monte Carlo projections
 - Backtest strategic allocations
 - Add performance and risk measurements
